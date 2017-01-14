@@ -15,13 +15,13 @@ CONTAINERS | usages
  queue | Queue
  stack | Stack
  array | one-dimensional array(fixed-size array)
- bitset | array of bool(0 and 1)
+ bitset | array of bool(0 or 1)
  
 
 
-# Key points:
+## Key points:
   
-# Map:
+### Map:
   1. it uses balanced binary tree.
   2. used for hash table
  
