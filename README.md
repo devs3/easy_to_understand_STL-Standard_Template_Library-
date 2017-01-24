@@ -33,6 +33,7 @@ CONTAINERS | usages
           toupper(c);
     }
   
-  #input: helloworld
-  #output: HELLOWORLD
+####input: helloworld
+  
+####output: HELLOWORLD
   
