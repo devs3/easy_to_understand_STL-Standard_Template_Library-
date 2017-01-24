@@ -26,3 +26,13 @@ CONTAINERS | usages
   2. used for hash table
  
                
+##Change string to upper case letters:
+    for(int i=0;<s.size();i++)
+    { 
+          char c=s[i];
+          toupper(c);
+    }
+  
+  #input: helloworld
+  #output: HELLOWORLD
+  
