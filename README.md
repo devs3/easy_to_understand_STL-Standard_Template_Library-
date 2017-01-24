@@ -37,3 +37,15 @@ CONTAINERS | usages
   
 ####output: HELLOWORLD
   
+  
+##change string to lower case letters:
+
+    for(int i=0;i<s.size();i++)
+    {
+       char c=s[i];
+       tolower(c);
+    }
+
+####input:HELLOWoRLd
+####output:helloworld
+ 
